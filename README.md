@@ -1,6 +1,6 @@
 # ps3
 
-In this project we have implemented an interactive main. The user will be able to choose between different possibilities. The main will be the following:
+In this project I implemented an interactive main. The user will be able to choose between different possibilities. The main will be the following:
 [1] Convert codec & video codec comparison.
 [2] Live streaming BBB.mp4, choosing the IP of the broadcast. 
 
