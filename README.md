@@ -9,7 +9,7 @@ In this project I implemented an interactive main. The user will be able to choo
 So when the user clicks the first option the main will allow to choose also the codec (vp8, vp9, .h265 and av1) and the size of the video. After the video converted will show the comparison between these videos.
 The second option will stream the BBB video allowing the user to choose the IP address.
 
-Important: when you use av1, to install FFmpeg with support for libaom-av1, you should compile FFmpeg with the *--enable-libaom* option.
+Important: when you use the av1 codec, to install FFmpeg with support for libaom-av1, you should compile FFmpeg with the *--enable-libaom* option.
 
 
 
